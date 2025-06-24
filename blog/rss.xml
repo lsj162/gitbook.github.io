@@ -4,10 +4,16 @@
         <title>_ | Blog</title>
         <link>https://osliu.com/blog</link>
         <description>_ | Blog</description>
-        <lastBuildDate>Thu, 12 Jun 2025 13:31:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jun 2025 08:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[20250622]]></title>
+            <link>https://osliu.com/blog/20250622</link>
+            <guid>https://osliu.com/blog/20250622</guid>
+            <pubDate>Sun, 22 Jun 2025 08:12:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[国家数据]]></title>
             <link>https://osliu.com/blog/国家数据</link>
@@ -84,6 +90,14 @@
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_KzqO" id="总结">总结<a href="https://osliu.com/blog/%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%B3%95%E5%BE%8B%E4%BD%93%E7%B3%BB#%E6%80%BB%E7%BB%93" class="hash-link" aria-label="总结的直接链接" title="总结的直接链接">​</a></h2>
 <p>中国的法律体系是一个多层次、多部门的复杂体系，主要包括宪法及宪法相关法、民商法、行政法、经济法、社会法、刑法、诉讼程序法与非诉讼程序法、军事法、环境与资源保护法以及其他特别法。这些法律共同构成了中国特色社会主义法律体系，为国家的政治、经济、社会和文化发展提供了有力的法律保障。</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[计算机专业]]></title>
+            <link>https://osliu.com/blog/计算机专业</link>
+            <guid>https://osliu.com/blog/计算机专业</guid>
+            <pubDate>Wed, 23 Apr 2025 02:06:04 GMT</pubDate>
+            <description><![CDATA[| 本科专业             | 是否考英语 | 说明                                                                                     |]]></description>
+            <content:encoded><![CDATA[<table><thead><tr><th>本科专业</th><th>是否考英语</th><th>说明</th></tr></thead><tbody><tr><td>计算机科学与技术</td><td>✅ 必考</td><td>最常见，也是最全面的计算机本科专业，课程包括编程、数据结构、算法、操作系统、计算机网络等</td></tr><tr><td>软件工程</td><td>✅ 必考</td><td>偏向软件开发与工程实践，如系统设计、项目管理、团队协作、开发流程等</td></tr><tr><td>网络工程</td><td>✅ 必考</td><td>偏重网络通信、网络安全、服务器搭建、运维等</td></tr><tr><td>信息安全</td><td>✅ 必考</td><td>专注于加密技术、网络安全、系统安全等领域</td></tr><tr><td>人工智能</td><td>✅ 必考</td><td>偏向 AI 算法、机器学习、数据挖掘、深度学习等（部分地区近年新增）</td></tr><tr><td>数据科学与大数据技术</td><td>✅ 必考</td><td>偏数据处理、分析、数据库、数据建模等</td></tr><tr><td>数字媒体技术</td><td>✅ 必考</td><td>偏向多媒体、游戏开发、动画、可视化方向</td></tr><tr><td>物联网工程</td><td>✅ 必考</td><td>融合硬件、嵌入式、网络、数据等交叉学科</td></tr><tr><td>智能科学与技术</td><td>✅ 必考</td><td>偏向人工智能和自动化控制结合的领域</td></tr></tbody></table>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022年伯克希尔股东大会全文]]></title>
